@@ -26,4 +26,4 @@ Here are some results,
 
 
 
-And these images are required by Kinect V2, normalized to 0~255, copy paste to 3 channels.
+And these images are aquired  by Kinect V2, normalized to 0~255, copy paste to 3 channels.
