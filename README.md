@@ -1,7 +1,7 @@
 # DenseNet-human-pose-estimation
 This is a simply and raw code using DenseNet to do human pose estimation task.
 
-This [url](https://resbyte.github.io/posts/2017/05/tf-densenet/)is a DenseNet model stucture definition based on *Tensorflow*.
+This [url](https://resbyte.github.io/posts/2017/05/tf-densenet/) is a DenseNet model stucture definition based on *Tensorflow*.
 
 This is a basic stucture of densenet:
 ![DenseNet](https://github.com/zhangboshen/DenseNet-human-pose-estimation/blob/master/Dense%20Net.png)
