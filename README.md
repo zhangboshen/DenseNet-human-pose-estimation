@@ -1,9 +1,12 @@
 # DenseNet-human-pose-estimation
 This is a simply and raw code using DenseNet to do human pose estimation task.
 
-This url(https://resbyte.github.io/posts/2017/05/tf-densenet/) is a DenseNet model stucture definition based on *Tensorflow*.
+This [url](https://resbyte.github.io/posts/2017/05/tf-densenet/)is a DenseNet model stucture definition based on *Tensorflow*.
 
-I add two fully_connected layers to do keypoints regression task.
+This is a basic stucture of densenet:
+![DenseNet](https://github.com/zhangboshen/DenseNet-human-pose-estimation/blob/master/Dense%20Net.png)
+
+I use 3 blocks, growth rate 12, and I add two fully_connected layers to do keypoints regression task.
 
 DenseNet_Kinect_train.py is training code, including model stucture definition, data_processing and training phase with GradientDescentOptimizer.
 
